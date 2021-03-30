@@ -160,3 +160,13 @@ export const $urlSet = [
   (input: URLObjectInput, url: string): string => _urlSet(url, input),
   [URL_OBJECT_INPUT_TYPE_SPEC, 'string'],
 ]
+
+/**
+ * @constant {Object} URL_EXPRESSIONS
+ */
+export const URL_EXPRESSIONS = {
+  $url,
+  $urlParse,
+  $urlMatches,
+  $urlSet,
+}

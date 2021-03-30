@@ -6,6 +6,7 @@ Array [
   "$urlParse",
   "$urlMatches",
   "$urlSet",
+  "URL_EXPRESSIONS",
   "serializableSearchParams",
   "serializableURLObject",
 ]

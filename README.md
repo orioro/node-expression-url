@@ -11,6 +11,7 @@ yarn add @orioro/expression-url
 - [`$urlParse(url)`](#urlparseurl)
 - [`$urlMatches(criteriaByPath, url)`](#urlmatchescriteriabypath-url)
 - [`$urlSet(input, url)`](#urlsetinput-url)
+- [`URL_EXPRESSIONS`](#url_expressions)
 - [`serializableSearchParams(searchParams)`](#serializablesearchparamssearchparams)
 - [`serializableURLObject(url)`](#serializableurlobjecturl)
 
@@ -36,6 +37,10 @@ yarn add @orioro/expression-url
 - `input` {URLObjectInput}
 - `url` {URL}
 - Returns: {URL} 
+
+##### `URL_EXPRESSIONS`
+
+
 
 ##### `serializableSearchParams(searchParams)`
 
